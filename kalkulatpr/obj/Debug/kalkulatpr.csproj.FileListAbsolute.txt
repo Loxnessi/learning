@@ -1,0 +1,10 @@
+C:\Users\wakik\OneDrive\Рабочий стол\проекты\калькулятор\kalkulatpr\bin\Debug\kalkulatpr.exe.config
+C:\Users\wakik\OneDrive\Рабочий стол\проекты\калькулятор\kalkulatpr\bin\Debug\kalkulatpr.exe
+C:\Users\wakik\OneDrive\Рабочий стол\проекты\калькулятор\kalkulatpr\bin\Debug\kalkulatpr.pdb
+C:\Users\wakik\OneDrive\Рабочий стол\проекты\калькулятор\kalkulatpr\obj\Debug\kalkulatpr.csproj.AssemblyReference.cache
+C:\Users\wakik\OneDrive\Рабочий стол\проекты\калькулятор\kalkulatpr\obj\Debug\kalkulatpr.Form1.resources
+C:\Users\wakik\OneDrive\Рабочий стол\проекты\калькулятор\kalkulatpr\obj\Debug\kalkulatpr.Properties.Resources.resources
+C:\Users\wakik\OneDrive\Рабочий стол\проекты\калькулятор\kalkulatpr\obj\Debug\kalkulatpr.csproj.GenerateResource.cache
+C:\Users\wakik\OneDrive\Рабочий стол\проекты\калькулятор\kalkulatpr\obj\Debug\kalkulatpr.csproj.CoreCompileInputs.cache
+C:\Users\wakik\OneDrive\Рабочий стол\проекты\калькулятор\kalkulatpr\obj\Debug\kalkulatpr.exe
+C:\Users\wakik\OneDrive\Рабочий стол\проекты\калькулятор\kalkulatpr\obj\Debug\kalkulatpr.pdb
